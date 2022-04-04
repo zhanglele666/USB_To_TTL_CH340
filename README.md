@@ -13,6 +13,6 @@
 
 ![原理图](sch_image.png)
 
-![typec版](type版\图1.png)
+![typec版](type%E7%89%88/%E5%9B%BE1.png)
 
-![usb版](usb版\图.png)
+![usb版](usb%E7%89%88/%E5%9B%BE.png)
