@@ -12,3 +12,7 @@
 3，TTL信号线使用二极管电阻防止冷启动时断电不彻底。
 
 ![原理图](sch_image.png)
+
+![typec版](type版\图1.png)
+
+![usb版](usb版\图.png)
