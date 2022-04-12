@@ -83,66 +83,70 @@ GenerateClassCluster=0
 DocumentUniqueId=LIKJACDE
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1-RoundHoles.TXT
+DocumentPath=Project Outputs for typec版下载器PCB_Project\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1-SlotHoles.TXT
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.DRR
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.EXTREP
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBL
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBO
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBP
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBS
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GM1
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTL
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTO
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTP
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTS
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.LDP
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.REP
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for typec版下载器PCB_Project\PCB1.RUL
 DItemRevisionGUID=
 
